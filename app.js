@@ -2,7 +2,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 import express from "express";
 import "dotenv/config";
-import identityRoutes from "./src/routes/contactRoutes.js";
+import identityRoutes from "./routes/contactRoutes.js";
 import pool from "./database/db.js";
 
 const app = express();
