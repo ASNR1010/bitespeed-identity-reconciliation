@@ -22,15 +22,6 @@ https://bitespeed-identity-reconciliation-70dr.onrender.com
 - PostgreSQL
 - pg (node-postgres) for database interactions
 
-## Working
-
-1. Install dependencies npm.
-
-2. Set up your PostgreSQL database and create a `.env` file in the root directory.
-
-3. Start the server:
-
-The server will start on `http://localhost:3000` (or the port specified in your .env file).
 
 ## API
 
