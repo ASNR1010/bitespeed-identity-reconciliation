@@ -12,7 +12,7 @@ This project implements an Identity Reconciliation service for the Bitespeed Bac
 ## Hosted URL for testing
 
 ```
-https://bitespeed-identity-reconciliation-k6d1.onrender.com/
+
 ```
 
 ## Tech Stack
