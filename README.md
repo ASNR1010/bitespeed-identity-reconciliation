@@ -26,16 +26,7 @@ https://bitespeed-identity-reconciliation-k6d1.onrender.com/
 
 1. Install dependencies npm.
 
-2. Set up your PostgreSQL database and create a `.env` file in the root directory with the following content:
-
-```
-DB_USER=your_username
-DB_HOST=your_host
-DB_NAME=your_database_name
-DB_PASSWORD=your_password
-DB_PORT=your_port
-PORT=3000
-```
+2. Set up your PostgreSQL database and create a `.env` file in the root directory.
 
 3. Start the server:
 
